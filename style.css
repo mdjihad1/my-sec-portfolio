@@ -1,0 +1,91 @@
+body{
+   margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 60px;
+
+}
+.h1exe{
+    margin-left: 5%;
+}
+h2{
+    font-size: 40px;
+}
+span{
+    color: rgb(255, 126, 40);
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+
+}
+.half-width img{
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(255, 72, 27), orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width2{
+    width: 50%;
+    margin-right: 5%;
+}
+.half-width2 img{
+    width: 85%;
+    padding-left: 3%;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.last-bg{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#Experiences{
+    width: 50%;
+    margin: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-right: 5%;
+    padding-bottom: 15px;
+    border-left: 7px solid salmon;
+    box-shadow: 10px 5px 30px grey;
+}
+#Experiences2{
+    width: 50%;
+    margin: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-right: 5%;
+    border-left: 7px solid rgb(61, 42, 235);
+    box-shadow: 10px 5px 30px grey;
+}
+.last-bg{
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+    margin-bottom: 15px;
+}
